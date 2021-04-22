@@ -53,7 +53,8 @@ getUrls().then(urls => {
     })
     return childElement;
     
-   
+    
+    
 }).then(childElement => products.innerHTML = childElement )
 
 
